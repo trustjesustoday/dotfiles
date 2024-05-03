@@ -1,0 +1,53 @@
+/*
+                     ___
+                   /'___) _
+ _   _   _    _   | (__  (_)
+( ) ( ) ( ) /'_`\ | ,__) | |
+| \_/ \_/ |( (_) )| |    | |
+`\___x___/'`\___/'(_)    (_)
+      ELITEDESK STYLE SHEET
+
+ */
+
+
+window {
+  background-color: #001e41;
+
+}
+
+* {
+  font-family: "Cheyenne Sans";
+  color: #ffffff;
+}
+
+#scroll {
+  padding: 0.5rem;
+}
+
+#input {
+  background:linear-gradient(180deg, rgba(53, 89, 82, 1), rgba(0, 0, 0, 1));
+  outline: none;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+  font-size: 1rem;
+  padding: 0.3rem;
+}
+
+#inner-box {
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+#img {
+  margin: 10px 10px;
+}
+
+#entry {
+  border-radius: 0.5rem;
+}
+
+#entry:selected {
+  background-color: #4e6679;
+  outline: none;
+}

@@ -1,0 +1,27 @@
+
+
+               _                                 _
+              (_ )                              ( )
+   ___    _    | |    _    _ __      ___    ___ | |__     __    ___ ___     __    ___
+ /'___) /'_`\  | |  /'_`\ ( '__)   /',__) /'___)|  _ `\ /'__`\/' _ ` _ `\ /'__`\/',__)
+( (___ ( (_) ) | | ( (_) )| |      \__, \( (___ | | | |(  ___/| ( ) ( ) |(  ___/\__, \
+`\____)`\___/'(___)`\___/'(_)      (____/`\____)(_) (_)`\____)(_) (_) (_)`\____)(____/
+                                                                       WOFI AND WAYBAR
+
+OLIVE
+background:linear-gradient(180deg, rgba(124, 131, 99, 1), rgba(49, 71, 58, 1));
+
+BURGUNDY
+background:linear-gradient(180deg, rgba(208, 56, 68, 0.7), rgba(0, 0, 0, 0.5));
+
+COBOLT
+background:linear-gradient(180deg, rgba(138, 182, 249, 1), rgba(0, 36, 107, 1));
+
+JULIUS
+background:linear-gradient(180deg, rgba(255, 173, 105, 0.85), rgba(53, 51, 63, 1));
+
+CHARCOAL
+background:linear-gradient(180deg, rgba(101, 110, 119, 1), rgba(59, 55, 59, 1));
+
+CLOVER
+background:linear-gradient(180deg, rgba(53, 89, 82, 1), rgba(0, 0, 0, 1));

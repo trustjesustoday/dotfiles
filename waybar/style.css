@@ -1,0 +1,179 @@
+* {
+    border:        1px;
+    border-radius: 10;
+    font-family:   "Cheyenne Sans", "FontAwesome 6 Free";
+    font-size:     16px;
+    box-shadow:    none;
+    text-shadow:   none;
+    transition-duration: 0s;
+}
+
+
+window#waybar {
+    font-family:   "Cheyenne Sans", "FontAwesome 6 Free";
+    font-size:     16px;
+    color: #ffffff;
+    background:linear-gradient(180deg, rgba(53, 89, 82, 1), rgba(0, 0, 0, 1));
+    border-radius: 15px;
+    border-bottom: .5px solid rgba(53, 185, 171, 0.5);
+}
+
+window#waybar.solo {
+    font-family:   "Cheyenne Sans", "FontAwesome 6 Free";
+    font-size:     16px;
+    color: #ffffff;
+}
+
+#workspaces {
+    margin: 0 5px;
+}
+
+#custom-scratchpad {
+    margin: 0px	5px;
+    padding: 0px 5px;
+}
+
+#workspaces button {
+    padding: 0 5px;
+    color: rgba(53, 185, 171, 1);
+}
+
+#workspaces button.focused {
+    color: rgba(115, 186, 37, 1);
+}
+
+#workspaces button.visible {
+    color: rgba(115, 186, 37, 1);
+}
+
+#workspaces button.urgent {
+    color: rgba(33, 164, 223, 1);
+}
+
+#mode, 
+#battery, 
+#cpu, 
+#memory, 
+#network, 
+#bluetooth,
+#pulseaudio, 
+#idle_inhibitor, 
+#temperature,
+#custom-layout,
+
+#custom-1 {
+  font-size:     16px;
+}
+
+#custom-2 {
+  font-size:     16px;
+}
+
+#custom-3 {
+  font-size:     16px;
+}
+
+#custom-4 {
+  font-size:     16px;
+}
+
+#custom-5 {
+  font-size:     18px;
+}
+
+#custom-6 {
+  font-size:     16px;
+}
+
+#custom-7 {
+  font-size:     16px;
+
+}
+
+#custom-8 {
+  font-size:     16px;
+
+}
+
+#custom-9 {
+  font-size:     16px;
+
+}
+
+#pulseaudio {
+    margin: 0px 6px 0px 10px;
+    font-size:     16px;
+}
+
+#temperature {
+    margin: 0px 6px 0px 10px;
+    font-size:     16px;
+}
+
+#memory {
+    margin: 0px 6px 0px 10px;
+    font-size:     16px;
+}
+
+#network {
+    margin: 0px 6px 0px 10px;
+    font-size:     16px;
+}
+#bluetooth {
+    margin: 0px 6px 0px 10px;
+    font-size:     16px;
+}
+
+
+#clock {
+    margin: 0px 6px 0px 10px;
+    color: #ffffff;
+    font-size:     16px;
+}
+
+
+#custom-logout {
+    margin: 0px 6px 0px 10px;
+    color: #ffff7f;
+    font-size:     30px;
+}
+
+#battery{
+    color: #ffffff;
+}
+
+#battery.warning {
+   color: rgba(255, 255, 0, 1);
+    background-color: rgba(0, 0, 0, 1);
+}
+
+#battery.critical {
+    color: rgba(255, 0, 0, 1);
+    background-color: rgba(0, 0, 0, 1);
+}
+
+#battery.charging {
+    color: #55aaff;
+
+}
+
+#bluetooth.disabled {
+    color: rgba(128, 128, 128, 1);
+}
+
+#bluetooth.off {
+    color: rgba(128, 128, 128, 1);
+}
+
+#bluetooth.connected {
+     font-family:   "Cheyenne Sans", "FontAwesome 6 Free";
+    font-size:     16px;
+    color: #55aaff;
+}
+
+#network.connected {
+    font-family:   "Cheyenne Sans", "FontAwesome 6 Free";
+    font-size:     16px;
+    color: rgba(115, 186, 37, 1);
+
+}
