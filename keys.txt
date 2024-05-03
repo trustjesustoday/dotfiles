@@ -1,0 +1,25 @@
+
+  🔲   SUPER A		Audacious
+  🔲   ALT A		Audacity
+  🔲   SUPER B		Waterfox BROWSER
+  🔲   SUPER C		Conky Manager
+  🔲   SUPER E		EXIT
+  🔲   SUPER F		Krusader FILE MANAGER
+  🔲   ALT F		FileZilla
+  🔲   SUPER G		Geany
+  🔲   ALT G		GIMP
+  🔲   ALT L		Libre Writer
+  🔲   SUPER M		Toggle tiling to floating
+  🔲   SUPER N		Network [ nm-cli login ]
+  🔲   ALT O		Ocenaudio
+  🔲   ALT P		Mousepad
+  🔲   ALT S		Stacer
+  🔲   SUPER 1-9		Workspaces
+  🔲   ALT 1-9		Move to new workspace
+  🔲   SUPER T		Kitty TERMINAL
+  🔲   SUPER W		Bible Time
+  🔲   SUPER X		Close window    
+  🔲   ALT X		Toggle Waybar
+  🔲   SUPER Z		Wofi Menu
+  🔲   ALT Z		Applications
+  🔲   SUPER F2		Wallpaper
