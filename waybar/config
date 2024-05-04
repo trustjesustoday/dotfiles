@@ -37,8 +37,9 @@
         "max-length":200,
         "tooltip": false
     },
-    "custom/1": {
-        "format": "🟠 ",
+    
+    custom/1": {
+        "format": "➊",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 1"
@@ -46,21 +47,21 @@
     },
 
     "custom/2": {
-        "format": "🟠 ",
+        "format": "➋",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 2"
     },
 
     "custom/3": {
-        "format": "🟠 ",
+        "format": "➌",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 3"
     },
 
        "custom/4": {
-        "format": "🟠 ",
+        "format": "➍",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 4"
@@ -68,34 +69,34 @@
 
 
     "custom/5": {
-        "format": "🟠 ",
+        "format": "➎",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 5"
     },
 
         "custom/6": {
-        "format": "🟠 ",
+        "format": "➏",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 6"
     },
 
         "custom/7": {
-        "format": "🟠 ",
+        "format": "➐",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 7"
         
     },
             "custom/8": {
-        "format": "🟠 ",
+        "format": "➑",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 8"
         
     },        "custom/9": {
-         "format": "🟠 ",
+         "format": "➒",
         "tooltip": false,
         "min-length": 3,
         "on-click": "hyprctl dispatch workspace 9"
